@@ -9,7 +9,8 @@
   }
   
   .Home .lander p {
-    color: #999;
+    color:black;
+    text-align: center;
   }
   .Home .notes h4 {
     font-family: "Open Sans", sans-serif;
